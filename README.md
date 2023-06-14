@@ -15,3 +15,4 @@
 Projek ini merupakan aplikasi smarthome yang berbasis internet of things dengan menggunakan platform shiftr.io sebagai metode mqtt dan platform iot yang digunakan adalah kodular. aplikasi ini dapat menampilkan kelembaban, suhu, dan menongontrol mati nyala lampu LED yang terdiri dari 4 ruangan yaitu kitchen, bathroom, bedroom, dan living room.
 # Broker Yang Digunakan
 https://kostgiofamily.cloud.shiftr.io/
+![image](https://github.com/dhimasprakasa204/UAS_IOT/assets/82323996/94bcf637-64b5-4795-a87c-b6fcd6254fe5)
