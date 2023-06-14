@@ -6,6 +6,7 @@
 * Alur Projek
 * Tampilan Website
 * Tampilan Aplikasi
+* Tampilan Database
 # Nama Anggota Kelompok
 * Giovani Chadavi Hidayat 2009106001
 * Ahmad Nur Rifqi 2009106007
@@ -37,4 +38,8 @@ Sensor DHT akan mempublish suhu dan kelembaban ke setiap ruangan broker yang sud
 ![image](https://github.com/dhimasprakasa204/UAS_IOT/assets/82323996/2687e763-7adc-4a52-90d2-befdb327b252)
 # Tampilan Aplikasi
 ![WhatsApp Image 2023-06-14 at 15 27 16](https://github.com/dhimasprakasa204/UAS_IOT/assets/82323996/6e191b95-7457-448f-9a61-cf57912967b7)
+# Tampilan Database
+![image](https://github.com/dhimasprakasa204/UAS_IOT/assets/82323996/9aa41335-1cec-460f-8321-3702009689e3)
+![image](https://github.com/dhimasprakasa204/UAS_IOT/assets/82323996/3bba9dec-2ac3-4872-b586-73ae9e1fa004)
+![image](https://github.com/dhimasprakasa204/UAS_IOT/assets/82323996/425ee471-e710-4cfc-a58d-043c8a5bb67d)
 
